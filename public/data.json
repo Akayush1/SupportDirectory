@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Bright Minds",
+    "specialization": "Dyslexia Support",
+    "location": "Dubai",
+    "rating": 4.5,
+    "shortDescription": "Support for dyslexic learners",
+    "longDescription": "We provide one-on-one tutoring for children with dyslexia.",
+    "contactEmail": "contact@brightminds.com",
+    "phoneNumber": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Focus Academy",
+    "specialization": "ADHD Coaching",
+    "location": "Sharjah",
+    "rating": 4.2,
+    "shortDescription": "Helping children focus better",
+    "longDescription": "Our ADHD coaching program helps kids stay focused and organized.",
+    "contactEmail": "hello@focusacademy.com",
+    "phoneNumber": "234-567-8901"
+  },
+  {
+    "id": 3,
+    "name": "Autism Pathways",
+    "specialization": "Autism Support",
+    "location": "Dubai",
+    "rating": 4.8,
+    "shortDescription": "Support for children with autism",
+    "longDescription": "We specialize in early intervention for children with autism.",
+    "contactEmail": "support@autismpathways.com",
+    "phoneNumber": "345-678-9012"
+  },
+  {
+    "id": 4,
+    "name": "Learning Ladder",
+    "specialization": "Speech Therapy",
+    "location": "Abu Dhabi",
+    "rating": 4.1,
+    "shortDescription": "Speech and language therapy",
+    "longDescription": "Helping children improve communication skills with expert speech therapists.",
+    "contactEmail": "info@learningladder.com",
+    "phoneNumber": "456-789-0123"
+  },
+  {
+    "id": 5,
+    "name": "MindBridge",
+    "specialization": "Behavioral Therapy",
+    "location": "Ajman",
+    "rating": 4.4,
+    "shortDescription": "Behavioral interventions and support",
+    "longDescription": "Evidence-based behavior analysis and support plans for children with developmental needs.",
+    "contactEmail": "care@mindbridge.org",
+    "phoneNumber": "567-890-1234"
+  },
+  {
+    "id": 6,
+    "name": "Thrive Education",
+    "specialization": "Occupational Therapy",
+    "location": "Dubai",
+    "rating": 4.6,
+    "shortDescription": "Improving motor and sensory skills",
+    "longDescription": "Helping children develop motor skills, coordination, and sensory processing.",
+    "contactEmail": "connect@thriveedu.com",
+    "phoneNumber": "678-901-2345"
+  },
+  {
+    "id": 7,
+    "name": "NeuroSpark",
+    "specialization": "Neurodevelopmental Coaching",
+    "location": "Sharjah",
+    "rating": 4.7,
+    "shortDescription": "Coaching for executive function skills",
+    "longDescription": "Personalized coaching for children with executive functioning challenges.",
+    "contactEmail": "team@neurospark.com",
+    "phoneNumber": "789-012-3456"
+  }
+]
